@@ -1,5 +1,5 @@
-## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=10&height=200&text=BonHun&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
+
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=10&height=200&text=BonHun&fontSize=50&animation=twinkling)
 <!--
 **bonun00/bonun00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
