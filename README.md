@@ -3,3 +3,4 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kogk4020)](https://solved.ac/kogk4020)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonun00&langs_count=8)](https://github.com/bonun00/github-readme-stats)
