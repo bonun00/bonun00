@@ -11,7 +11,7 @@
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres, supabase" alt="database skills" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,supabase" alt="database skills" />
 </p>
 
 ### ☁️ Infra & Tools
