@@ -11,31 +11,27 @@
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" alt="database skills" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres, supabase" alt="database skills" />
 </p>
 
 ### ☁️ Infra & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=aws,git,github" alt="infrastructure and tools" />
 </p>
-<p>
-  <img src="https://img.shields.io/badge/Railway-131415?style=flat&logo=railway&logoColor=white" alt="Railway">
-</p>
+
 
 ### 💻 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=ts,react,js,html,css" alt="frontend skills" />
 </p>
+
 ---
 
 ## 💼 Experience & Education
 
-- **매력일자리사업 실무 인턴십** (2026.05 ~ 현재)
-  AI 활용 개발 역량 확보
+- **매력일자리사업 실무 인턴십 진행 중**
 - **KT Cloud x Goorm 클라우드 엔지니어링 과정 수료**
-  클라우드 인프라 환경에 대한 이해 및 서버 구축/운영 역량 확보
 - **우리 FIS 아카데미 수료**
-  엔터프라이즈 환경을 고려한 백엔드 시스템 및 데이터베이스 설계 심화 학습
 
 ---
 
