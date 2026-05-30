@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&width=435&lines=Backend+Developer+구본훈)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&width=335&lines=Backend+Developer+구본훈)](https://git.io/typing-svg)
 
 ## 🛠 Tech Stack
 
