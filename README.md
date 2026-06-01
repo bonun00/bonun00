@@ -35,15 +35,6 @@ KT Cloud x Goorm 클라우드 엔지니어링 과정 수료<br>
 
 ---
 
-📫 **Contact & Links**<br><br>
-
-**Email:** kogk402077@gmail.com<br>
-**Resume/Portfolio:** [노션 포트폴리오 또는 이력서 링크 입력]<br>
-**Blog:** [기술 블로그 링크 입력]
-
-
----
-
 꾸준한 알고리즘 문제 풀이를 통해 논리적인 문제 해결 능력을 기르고 있습니다.<br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kogk4020)](https://solved.ac/kogk4020)
