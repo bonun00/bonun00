@@ -30,6 +30,7 @@
 💼 **Experience & Education**<br><br>
 
 매력일자리사업 실무 인턴십 진행 중<br>
+Goorm 해커톤 백엔드 개발로 참가 <br>
 KT Cloud x Goorm 클라우드 엔지니어링 과정 수료<br>
 우리 FIS 아카데미 수료
 
