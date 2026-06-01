@@ -6,12 +6,12 @@
 
 ### ⚙️ Backend & Data
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,redis,kafka" alt="backend and data skills" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,kafka" alt="backend and data skills" />
 </p>
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,supabase" alt="database skills" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,redis,supabase" alt="database skills" />
 </p>
 
 ### ☁️ Infra & Tools
