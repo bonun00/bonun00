@@ -6,7 +6,7 @@
 
 ### ⚙️ Backend & Data
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,kafka" alt="backend and data skills" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,kafka" alt="backend and data skills" />
 </p>
 
 ### 🗄️ Database
