@@ -22,7 +22,7 @@
 
 ### 💻 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,js,html,css" alt="frontend skills" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,html,css" alt="frontend skills" />
 </p>
 
 ---
